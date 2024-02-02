@@ -1,5 +1,3 @@
-package com.thippeswamy.app.SimpleContactsMessagesManager;
-
 public class Message {
     private String text;
     private String recipient;
