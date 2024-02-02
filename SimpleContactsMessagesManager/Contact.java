@@ -1,5 +1,3 @@
-package com.thippeswamy.app.SimpleContactsMessagesManager;
-
 import java.util.ArrayList;
 
 public class Contact {
